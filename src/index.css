@@ -1,6 +1,8 @@
 /* index.css – Basis-Stile */
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: 'Inter', 'DM Sans', 'Open Sans', sans-serif;
+  background: #fdfdfd;
+  color: #2c3e50;
 }
 
